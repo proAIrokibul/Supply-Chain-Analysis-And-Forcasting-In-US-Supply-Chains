@@ -40,3 +40,28 @@ This project delves into the analysis and forecasting of supply chain performanc
 weighted avg       1.00      1.00      1.00      1599
 
 Random Forest Accuracy: 1.00
+
+
+               precision    recall  f1-score   support
+
+           0       1.00      0.87      0.93       767
+           1       0.89      1.00      0.94       832
+
+    accuracy                           0.94      1599
+   macro avg       0.95      0.93      0.94      1599
+weighted avg       0.94      0.94      0.94      1599
+
+Logistic Regression Accuracy: 0.94
+
+
+               precision    recall  f1-score   support
+
+           0       0.87      0.65      0.74       767
+           1       0.74      0.91      0.82       832
+
+    accuracy                           0.79      1599
+   macro avg       0.81      0.78      0.78      1599
+weighted avg       0.80      0.79      0.78      1599
+
+Support Vector Classifier Accuracy: 0.79
+
