@@ -1,4 +1,4 @@
-# Supply Chain Analysis and Forecasting in US Supply Chains
+# Supply Chain Analysis and Forecasting Predictive Modeling 
 
 This project delves into the analysis and forecasting of supply chain performance within the United States, leveraging a robust dataset on regional sales. The goal is to extract actionable insights and predict critical outcomes, aiding businesses in optimizing their supply chain strategies.
 
